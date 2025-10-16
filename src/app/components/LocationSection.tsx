@@ -43,7 +43,7 @@ export default function LocationSection() {
         >
           <div className="aspect-[4/3] rounded-lg overflow-hidden shadow-lg">
             <Image
-              src="/images/coralair-location-map.webp"
+              src="/images/coralair-location-map.png"
               alt="CoralAir Whitsundays location map showing proximity to Port of Airlie Marina, Coral Sea Marina, and Whitsunday Airport"
               fill
               className="object-cover"
