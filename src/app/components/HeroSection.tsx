@@ -37,7 +37,7 @@ export default function HeroSection() {
         muted
         loop
         playsInline
-        poster="/images/hero-villa.webp"
+        poster="/images/hero-image.svg"
         className="absolute inset-0 w-full h-full object-cover"
         aria-hidden="true"
       >
