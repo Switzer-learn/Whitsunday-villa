@@ -31,7 +31,7 @@ export default function AmenitiesSection() {
 
   return (
     <section className="py-24 overflow-x-auto scroll-smooth scroll-snap-x mandatory px-6">
-      <div className="grid grid-cols-3 gap-6 min-w-max">
+      <div className="grid md:grid-cols-3 gap-6 min-w-max grid-cols-1">
         {amenities.map((amenity) => (
           <motion.div
             key={amenity.title}
